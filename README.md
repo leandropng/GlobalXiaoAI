@@ -10,6 +10,9 @@
 - Reboot your device.
 - Enjoy!
 
+### Screenshots
+<img width="300" height="600" alt="Rectangle 3476fdsfsd16932" src="https://github.com/user-attachments/assets/bac981de-b80a-4265-a751-d1f111392f6f" />
+
 ### Changelog
 
 ### Note
