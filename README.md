@@ -1,5 +1,5 @@
 # Global XiaoAI ✨
-<img width="2171" height="1220" alt="Groupgsfsdgf 2117131977" src="https://github.com/user-attachments/assets/73538e32-822f-47ed-8059-62e25ddf24b0" />
+<img width="2171" height="1220" alt="Group 2117131hfdghdfg977" src="https://github.com/user-attachments/assets/82973747-7c37-4fa1-b769-26d312c10427" />
 
 ### Information
 - This module is coming soon.
