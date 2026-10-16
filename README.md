@@ -1,11 +1,8 @@
 # Global XiaoAI ✨
 <img width="2171" height="1220" alt="Group 2117131hfdghdfg977" src="https://github.com/user-attachments/assets/82973747-7c37-4fa1-b769-26d312c10427" />
 
-### Information
-- This module is coming soon.
-
 ### Download
-- Download from the [releases page](https://github.com/leandropng/GlobalXiaoAI).
+- Download from the [releases page](https://github.com/leandropng/GlobalXiaoAI/releases/tag/V1).
 
 ### Instructions
 - Download the zip file and flash it in Magisk or KernelSU.
@@ -13,7 +10,7 @@
 - Enjoy!
 
 ### Screenshots
-<img width="300" height="600" alt="Rectangle 3476fdsfsd16932" src="https://github.com/user-attachments/assets/bac981de-b80a-4265-a751-d1f111392f6f" />
+- Coming soon
 
 ### Note
 - After flashing the module, please update the MiAI apk to the newest version from [MemeOSUpdates](https://memeosupdates.com/apps/com.miui.voiceassist) for it to work.
