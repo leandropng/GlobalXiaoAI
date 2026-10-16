@@ -10,7 +10,10 @@
 - Enjoy!
 
 ### Screenshots
-- Coming soon
+<img width="300" height="660" alt="Screenshot 2026-10-16 202956" src="https://github.com/user-attachments/assets/1497a04e-5de2-431b-b6d1-fc3e231d1f9f" />
+<img width="300" height="660" alt="Screenshot 2026-10-16 203430" src="https://github.com/user-attachments/assets/fc548aad-b246-49fd-9bd4-999d311f34c6" />
+<img width="300" height="660" alt="Screenshot 2026-10-16 203123" src="https://github.com/user-attachments/assets/40f775a0-2328-4d6a-b430-7394b629d685" />
+
 
 ### Note
 - After flashing the module, please update the MiAI apk to the newest version from [MemeOSUpdates](https://memeosupdates.com/apps/com.miui.voiceassist) for it to work.
