@@ -17,6 +17,6 @@
 
 ### Note
 - After flashing the module, please update the MiAI apk to the newest version from [MemeOSUpdates](https://memeosupdates.com/apps/com.miui.voiceassist) for it to work.
-- To change your assistant back to another one, disable the module and remove all XiaoAI apps via [Canta Debloater](https://play.google.com/store/apps/details?id=io.github.samolego.canta&hl=de).
+- To change your assistant back to another one, disable the module and remove all XiaoAI apps via [EXA System App Remover](https://play.google.com/store/apps/details?id=exa.free.saux).
 
 ### Changelog
